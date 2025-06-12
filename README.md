@@ -11,10 +11,6 @@ A clean and beginner-friendly documentation website that explains Git & GitHub c
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Author](#author)
 
 ---
 
