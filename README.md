@@ -26,7 +26,7 @@ Built using **HTML5** and **CSS3**, this project demonstrates my ability to stru
 ---
 
 ## 🚀 Live Demo
-🔗 [Git & GitHub Documentation Website](https://github.com/Nireesha0521/Git-GitHub-Documentation-Site.git)
+🔗 [Git & GitHub Documentation Website]( https://nireesha0521.github.io/Git-GitHub-Documentation-Site/)
 
 ---
 
