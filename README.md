@@ -1,4 +1,5 @@
 # 📘 Git & GitHub Documentation Website
+**Mini Project / UI Documentation Project**
 
 ## 🔍 Overview
 A self-designed and responsive documentation website that explains the fundamentals of **Git and GitHub**, including commands, workflows, and best practices.  
